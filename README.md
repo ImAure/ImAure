@@ -7,6 +7,10 @@ I am Aure, and I am a B.Sc. student in Physics at the University of Catania, Sic
 
 I mainly use C and $\LaTeX$, so this is what you are probably going to find around here.
 
+### Some Statistics?
+![My Github Stats](https://github-readme-stats.vercel.app/api/?username=ImAure&show_icons=true&theme=vision-friendly-dark&showicons=true)
+![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImAure&show_icons=true&theme=vision-friendly-dark&showicons=true)
+
 ### Contact Information
 You can find me at:
 * [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RelDesu)
