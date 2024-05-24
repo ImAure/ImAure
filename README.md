@@ -3,7 +3,8 @@
 
 I am Aure, and I am a B.Sc. student in Physics at the University of Catania, Sicily, Italy.
 
-Here is a little photograph I took of Planetary Nebula M20:
+Here is a little picture I took of Planetary Nebula M20:
+
 ![M20 Trifid Nebula](https://github.com/ImAure/ImAure/assets/93878749/7fbb9dc2-9568-40b3-9b62-9c1f0dc0516a)
 <!--
 **ImAure/ImAure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
