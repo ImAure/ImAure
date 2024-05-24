@@ -11,6 +11,9 @@ I mainly use C and $\LaTeX$, so this is what you are probably going to find arou
 You can find me at:
 * [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RelDesu)
 
+Euler-Lagrange's Equation:
+$\frac{\text{d}}{\text{d}t}\frac{\partial\mathcal{L}}{\partial\dot{q}^\alpha}-\frac{\partial\mathcal{L}}{\partial q^\alpha}=0$
+
 Here is a little picture I took of Planetary Nebula M20:
 
 ![M20 Trifid Nebula](https://github.com/ImAure/ImAure/assets/93878749/7fbb9dc2-9568-40b3-9b62-9c1f0dc0516a)
