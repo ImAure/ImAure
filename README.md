@@ -1,4 +1,4 @@
-![Polarised_emission_from_Milky_Way_dust_pillars (1)](https://github.com/ImAure/ImAure/assets/93878749/e1904251-e944-4e89-ae91-14cd0309e545)[^1]
+![Polarised_emission_from_Milky_Way_dust](https://github.com/ImAure/ImAure/assets/93878749/39ae80e4-1483-489a-9c59-270f9d8e676b)[^1]
 [^1]: Cover picture credit: [ESA](https://www.esa.int/ESA_Multimedia/Images/2015/02/Polarised_emission_from_Milky_Way_dust)
 ## Hello There!
 I am Aure, and I am a B.Sc. student in Physics at the University of Catania, Sicily, Italy.
