@@ -1,5 +1,7 @@
-![Cover art: polarised dust emition from our galaxy]([https://supernova.eso.org/static/archives/exhibitionimages/screen/1105_D_copy.jpg](https://www.esa.int/ESA_Multimedia/Images/2015/02/Polarised_emission_from_Milky_Way_dust))
+
 ## Hello There!
+![Polarised emission from Milky Way dust pillars](https://github.com/ImAure/ImAure/assets/93878749/50a4cf9e-aeca-460d-8f35-68bf12a358cb)[^1]
+[^1]: Cover picture credit: [ESA](https://www.esa.int/ESA_Multimedia/Images/2015/02/Polarised_emission_from_Milky_Way_dust)
 
 I am Aure, and I am a B.Sc. student in Physics at the University of Catania, Sicily, Italy.
 > [!WARNING]
