@@ -3,7 +3,7 @@
 ## Hello There!
 I am Aure, and I am a B.Sc. student in Physics at the University of Catania, Sicily, Italy.
 > [!WARNING]
-> This `.md` file is still under construction. Thanks for your patiance.
+> This `.md` file is still under construction. Thanks for your patience.
 
 I mainly use C and $\LaTeX$, so this is what you are probably going to find around here.
 
