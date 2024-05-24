@@ -1,4 +1,4 @@
-
+![Cover art: polarised Cosmic Microwave Background](https://supernova.eso.org/static/archives/exhibitionimages/screen/1105_D_copy.jpg)
 ## Hello There!
 
 I am Aure, and I am a B.Sc. student in Physics at the University of Catania, Sicily, Italy.
