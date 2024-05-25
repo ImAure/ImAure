@@ -14,8 +14,10 @@ I mainly use C and $\LaTeX$, so this is what you are probably going to find arou
 <details>
 <summary><h3>Contact Information</h3></summary>
 <br>
+  
 You can find me at:
 * [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RelDesu)
+  
 </details>
 
 Euler-Lagrange Equation:
