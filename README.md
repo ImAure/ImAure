@@ -12,7 +12,7 @@ I mainly use C and $\LaTeX$, so this is what you are probably going to find arou
 ![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImAure&show_icons=true&theme=vision-friendly-dark&showicons=true)
 
 <details>
-<summary> ### Contact Information </summary>
+<summary><h3>Contact Information</h3></summary>
 <br>
 You can find me at:
 * [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RelDesu)
