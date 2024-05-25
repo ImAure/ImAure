@@ -11,9 +11,12 @@ I mainly use C and $\LaTeX$, so this is what you are probably going to find arou
 ![My Github Stats](https://github-readme-stats.vercel.app/api/?username=ImAure&show_icons=true&theme=vision-friendly-dark&showicons=true)
 ![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImAure&show_icons=true&theme=vision-friendly-dark&showicons=true)
 
-### Contact Information
+<details>
+<summary> ### Contact Information </summary>
+<br>
 You can find me at:
 * [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RelDesu)
+</details>
 
 Euler-Lagrange Equation:
 $$\frac{\text{d}}{\text{d}t}\frac{\partial\mathcal{L}}{\partial\dot{q}^\alpha}-\frac{\partial\mathcal{L}}{\partial q^\alpha}=0$$
