@@ -24,6 +24,7 @@ I mainly use C and $\LaTeX$, so this is what you are probably going to find arou
 ## Filler content:
 
 Euler-Lagrange Equation:
+
 $$\frac{\text{d}}{\text{d}t}\frac{\partial\mathcal{L}}{\partial\dot{q}^\alpha}-\frac{\partial\mathcal{L}}{\partial q^\alpha}=0$$
 
 Here is a little picture I took of Planetary Nebula M20:
