@@ -1,14 +1,16 @@
 ![Polarised_emission_from_Milky_Way_dust](https://github.com/ImAure/ImAure/assets/93878749/39ae80e4-1483-489a-9c59-270f9d8e676b)[^1]
 [^1]: Cover picture credit: [ESA](https://www.esa.int/ESA_Multimedia/Images/2015/02/Polarised_emission_from_Milky_Way_dust)
 # Hello There!
-I am Aure, and I am a B.Sc. student in Physics at the University of Catania, Sicily, Italy.
+You can call me Aure, I am a B.Sc. student in Physics at the University of Catania, Sicily, Italy.
 > [!WARNING]
 > This `.md` file is still under construction. Thanks for your patience.
 
 I mainly use C and $\LaTeX$, so this is what you are probably going to find around here.
 
-### Some Statistics?
-![My Github Stats](https://github-readme-stats.vercel.app/api/?username=ImAure&show_icons=true&theme=vision-friendly-dark&showicons=true)
+What am I up to?
+- Currently working on University projects, mainly physics simulations, reports and notes;
+- I'm also trying to learn Haskell;
+- Not a developer though!
 
 ![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImAure&show_icons=true&theme=vision-friendly-dark&showicons=true)
 
@@ -23,11 +25,15 @@ I mainly use C and $\LaTeX$, so this is what you are probably going to find arou
 ---
 ## Filler content:
 
-Euler-Lagrange Equation:
+Euler-Lagrange Equations:
 
-$$\frac{\text{d}}{\text{d}t}\frac{\partial\mathcal{L}}{\partial\dot{q}^\alpha}-\frac{\partial\mathcal{L}}{\partial q^\alpha}=0$$
+$$\frac{\text{d}}{\text{d}t}\frac{\partial\mathcal{L}}{\partial{\dot{q}}^\alpha}-\frac{\partial\mathcal{L}}{\partial q^\alpha}=0;$$
 
-Here is a little picture I took of Planetary Nebula M20:
+Hamilton's Equations:
+
+$$\dot{q}^\alpha = \frac{\partial\mathcal{H}}{\partial p_\alpha},\qquad\dot{p}_\alpha = -\frac{\partial\mathcal{H}}{\partial q^\alpha}.$$
+
+Here is a little picture of Planetary Nebula M20 I took:
 
 ![M20 Trifid Nebula](https://github.com/ImAure/ImAure/assets/93878749/7fbb9dc2-9568-40b3-9b62-9c1f0dc0516a)
 <!--
